@@ -35,7 +35,8 @@ p {
 .MWCFace--wrapper {
     display: inline-flex;
     justify-content: center;
-    margin-bottom: 32px;
+    width: 100%;
+    margin-bottom: 42px;
 }
 
 .socialMedia--wrapper {
