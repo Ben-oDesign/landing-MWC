@@ -1,0 +1,78 @@
+body {
+    background-color: #d5b89b;
+}
+
+span, p {
+    font-family: "Arial Rounded MT Bold";
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+.logo {
+    margin: 4px;
+}
+
+.mainContente--wrapper {
+    margin: 0 30% 0 30%;
+}
+
+.buildingText--wrapper {
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+}
+
+.buildingText {
+}
+
+.MWCFace--wrapper {
+    display: inline-flex;
+    justify-content: center;
+    margin-bottom: 32px;
+}
+
+.socialMedia--wrapper {
+    display: inline-flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 16px auto 0 auto;
+}
+
+.socialMedia--linkedIn--wrapper {
+    display: inline-flex;
+    align-items: center;
+    margin: 0 8px;
+}
+
+.socialMedia--linkedIn--link {
+    display: inherit;
+    align-items: inherit;
+}
+
+.socialMedia--linkedIn {
+    margin-right: 4px;
+}
+
+
+.socialMedia--instagram--wrapper {
+    display: inline-flex;
+    align-items: center;
+    margin: 0 8px;
+}
+
+.socialMedia--instagram--link {
+    display: inherit;
+    align-items: inherit;
+}
+
+
+.socialMedia--instagram {
+    margin-right: 4px;
+}
